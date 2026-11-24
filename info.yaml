@@ -3,7 +3,7 @@ project:
   title:        "Restador"      # Project title
   author:       "JBrandonMJ"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Restador de 4 bits"      # One line description of what your project does
+  description:  "Restadorde 4 bits"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
